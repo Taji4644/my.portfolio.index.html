@@ -21,7 +21,7 @@
     </div>
     <div class="project">
       <h3>Data Visualizer</h3>
-      <p>Web developmeny.</p>
+      <p>Web development.</p>
       <p>Mobile App</p>
       <a href="https://github.com/yourusername/datavis">View Code</a>
     </div>
