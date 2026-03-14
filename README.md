@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <h1>Hi, I'm [Your Name]</h1>
+    <h1>Hi, I'm MICHAEL MWANGI</h1>
     <p>Software Developer | Problem Solver | Tech Enthusiast</p>
   </header>
 
@@ -21,14 +21,15 @@
     </div>
     <div class="project">
       <h3>Data Visualizer</h3>
-      <p>Python app for visualizing datasets.</p>
+      <p>Web developmeny.</p>
+      <p>Mobile App</p>
       <a href="https://github.com/yourusername/datavis">View Code</a>
     </div>
   </section>
 
   <footer>
-    <p>Contact: your.email@example.com</p>
-    <p>GitHub: <a href="https://github.com/yourusername">yourusername</a></p>
+    <p>Contact: your mwaske4644@gmail.com</p>
+    <p>GitHub: <a href="https://github.com/yourusername">Taji4644</a></p>
   </footer>
 </body>
 </html>
